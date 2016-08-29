@@ -8,7 +8,7 @@
 * 08/26/2016     Bryce Batson     0.1       Initial
 */
 public class Shift_OppLineHandler extends Shift_TriggerHandler{
-
+	
 	public override void beforeInsert() {
 	}
 
